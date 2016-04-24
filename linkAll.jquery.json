@@ -1,0 +1,32 @@
+{
+    "name": "linkAll",
+    "title": "linkAll Plugin",
+    "description": "jQuery plugin for adding links to elements.",
+    "keywords": [
+        "link",
+        "element"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Mehavardhini Vijaya Kumar",
+        "url": "http://www.mehavardhini.com"
+    },
+    "maintainers": [
+        {
+            "name": "Mehavardhini Vijaya Kumar",
+            "email": "vmehavardhini@gmail.com",
+            "url": "http://www.mehavardhini.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Mehavardhini/jquery.linkAll/MIT-LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/Mehavardhini/jquery.linkAll",
+    "docs": "https://github.com/Mehavardhini/jquery.linkAll",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
